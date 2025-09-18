@@ -26,3 +26,4 @@ public class ResponseController {
         return new Star("Robbie", 95);
     }
 }
+
